@@ -1,0 +1,22 @@
+{
+  "name": "epijs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpian/epijs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpian/epijs/issues"
+  },
+  "homepage": "https://github.com/alpian/epijs#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
